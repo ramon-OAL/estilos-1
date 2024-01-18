@@ -1,0 +1,25 @@
+*{
+	font-family:verdana;
+}
+
+h2,p,h1{
+	color:green;
+	font-size:25px;
+	font-style:italic;
+		}
+
+
+
+
+
+.fondo, .coloRosa{
+	background:pink;
+}
+}
+
+.colorRosa
+
+div p.miColor{
+	color:blue;
+	font-size: 30px;
+}	
